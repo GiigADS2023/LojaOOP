@@ -1,0 +1,14 @@
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\obj\Debug\net8.0\LojaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\obj\Debug\net8.0\LojaOOP.AssemblyInfoInputs.cache
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\obj\Debug\net8.0\LojaOOP.AssemblyInfo.cs
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\obj\Debug\net8.0\LojaOOP.csproj.CoreCompileInputs.cache
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\bin\Debug\net8.0\LojaOOP.exe
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\bin\Debug\net8.0\LojaOOP.deps.json
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\bin\Debug\net8.0\LojaOOP.runtimeconfig.json
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\bin\Debug\net8.0\LojaOOP.dll
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\bin\Debug\net8.0\LojaOOP.pdb
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\obj\Debug\net8.0\LojaOOP.dll
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\obj\Debug\net8.0\refint\LojaOOP.dll
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\obj\Debug\net8.0\LojaOOP.pdb
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\obj\Debug\net8.0\LojaOOP.genruntimeconfig.cache
+C:\Users\giorg\OneDrive\Área de Trabalho\C#(OOP)\LojaOOP\LojaOOP\obj\Debug\net8.0\ref\LojaOOP.dll
